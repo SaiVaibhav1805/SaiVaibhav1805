@@ -14,8 +14,13 @@ I am an enthusiastic learner with a strong passion for technology, development, 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<div>
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=SaiVaibhav1805&theme=tokyo-night"></a>
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 -->
