@@ -1,122 +1,164 @@
-# Hey there, I'm Vaibhav 👋  
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Hackathon+Builder;Data+Science+Student;Always+Learning+New+Things+🚀" alt="Typing SVG" />
-</p>
-
----
-
-## 🚀 About Me  
-
-🎓 Data Science Student  
-💡 Passionate about **Artificial Intelligence, Machine Learning, Web Development, and Problem Solving**  
-🌱 Currently exploring **Advanced ML, FastAPI, React, and Cloud Technologies**  
-🏆 Active Hackathon Participant & Tech Enthusiast  
-⚡ Love building impactful real-world projects and learning through hands-on experience  
-
----
-
-## 🌐 Connect With Me  
-
-<p align="left">
-<a href="https://github.com/SaiVaibhav1805" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-# 💻 Tech Stack  
-
-### 👨‍💻 Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🤖 AI / ML / Data Science
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-# 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiVaibhav1805&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiVaibhav1805&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiVaibhav1805&theme=tokyonight&hide_border=true&layout=compact" height="180em"/>
-</p>
-
----
-
-# 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiVaibhav1805&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake  
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
+
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sai%20Vaibhav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI+that+matters+🤖;Full+Stack+%7C+Data+Science+%7C+ML;Turning+data+into+decisions+📊;Hackathon+builder+%26+problem+solver+🏆;Always+shipping%2C+always+learning+🚀" alt="Typing SVG" />
+
+<br/>
+
+<!-- Social Badges -->
+<a href="https://github.com/SaiVaibhav1805">
+  <img src="https://img.shields.io/badge/GitHub-SaiVaibhav1805-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SaiVaibhav1805&label=Profile+Views&color=38BDF8&style=flat-square)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/SaiVaibhav1805?label=Followers&style=flat-square&color=38BDF8)
+
 </div>
 
 ---
 
-# 🏆 Achievements & Interests  
+## ⚡ Who Am I?
 
-✨ Building AI-powered real-world solutions  
-🏅 Participating in Hackathons & Technical Events  
-📚 Exploring Machine Learning & Full Stack Development  
-🚀 Interested in Open Source Contributions  
-🎯 Goal: Become a skilled AI Engineer & Full Stack Developer  
+```python
+class SaiVaibhav:
+    def __init__(self):
+        self.name        = "Sai Vaibhav"
+        self.role        = "Data Science Student & AI/ML Enthusiast"
+        self.location    = "India 🇮🇳"
+        self.languages   = ["Python", "Java", "JavaScript", "R", "C"]
+        self.interests   = ["Machine Learning", "Full Stack Dev", "Hackathons", "Open Source"]
+        self.currently   = ["Advanced ML", "FastAPI", "React", "Cloud Technologies"]
+        self.goal        = "Become a skilled AI Engineer & Full Stack Developer"
 
----
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
 
-# ✍️ Random Dev Quote  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaiVaibhav1805&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
+me = SaiVaibhav()
+me.say_hi()
+```
 
 ---
 
-<p align="center">
-  ⭐️ From <a href="https://github.com/SaiVaibhav1805">SaiVaibhav1805</a>
-</p>
+## 🧠 Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🤖 AI / ML / Data Science
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🗄️ Databases & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SaiVaibhav1805&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180em"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiVaibhav1805&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180em"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiVaibhav1805&theme=tokyonight&hide_border=true&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" width="49%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiVaibhav1805&theme=tokyo-night&hide_border=true&area=true&area_color=38BDF8"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaiVaibhav1805&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7"/>
+</div>
+
+---
+
+## 🎯 What I'm Up To
+
+| 🔭 Working On | Advanced ML projects & real-world AI solutions |
+|---|---|
+| 🌱 Learning | FastAPI · React · Cloud · Deep Learning |
+| 🏆 Goals | Compete in hackathons · Contribute to open source |
+| 💬 Ask me about | Python · ML Pipelines · Data Science · Web Dev |
+| ⚡ Fun fact | I debug code faster with coffee ☕ |
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiVaibhav1805/SaiVaibhav1805/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiVaibhav1805/SaiVaibhav1805/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SaiVaibhav1805/SaiVaibhav1805/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+---
+
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+**"Code is not just syntax — it's a solution waiting to happen."**
+
+⭐️ If you find my work interesting, drop a star on a repo!
+
+*Made with ❤️ by [SaiVaibhav1805](https://github.com/SaiVaibhav1805)*
+
+</div>
