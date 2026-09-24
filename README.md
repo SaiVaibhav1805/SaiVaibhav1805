@@ -1,24 +1,24 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sai%20Vaibhav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sai%20Vaibhav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Backend%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI+that+matters+🤖;Full+Stack+%7C+Data+Science+%7C+ML;Turning+data+into+decisions+📊;Hackathon+builder+%26+problem+solver+🏆;Always+shipping%2C+always+learning+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI+that+matters+🤖;Backend+%7C+Data+Science+%7C+ML;Turning+data+into+decisions+📊;Hackathon+builder+%26+problem+solver+🏆;Always+shipping%2C+always+learning+🚀" alt="Typing SVG" />
 
 <br/>
 
 <!-- Social Badges -->
 <a href="https://github.com/SaiVaibhav1805">
-  <img src="https://img.shields.io/badge/GitHub-SaiVaibhav1805-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-SaiVaibhav1805-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/saivaibhav1805">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:yourmail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -31,6 +31,7 @@
 
 ---
 
+
 ## ⚡ Who Am I?
 
 ```python
@@ -40,9 +41,9 @@ class SaiVaibhav:
         self.role        = "Data Science Student & AI/ML Enthusiast"
         self.location    = "India 🇮🇳"
         self.languages   = ["Python", "Java", "JavaScript", "R", "C"]
-        self.interests   = ["Machine Learning", "Full Stack Dev", "Hackathons", "Open Source"]
-        self.currently   = ["Advanced ML", "FastAPI", "React", "Cloud Technologies"]
-        self.goal        = "Become a skilled AI Engineer & Full Stack Developer"
+        self.interests   = ["Machine Learning", "Backend Development", "Hackathons", "Open Source"]
+        self.currently   = ["Advanced ML", "REST API", "React"]
+        self.goal        = "Become a skilled AI Engineer & Backend Developer"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
@@ -58,31 +59,32 @@ me.say_hi()
 <div align="center">
 
 ### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 ### 🤖 AI / ML / Data Science
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### 🌐 Backend & Web
+![REST API](https://img.shields.io/badge/REST%20API-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ### 🗄️ Databases & DevOps
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
@@ -94,6 +96,7 @@ me.say_hi()
 
 <img src="https://github-readme-stats.vercel.app/api?username=SaiVaibhav1805&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180em"/>
 &nbsp;&nbsp;
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiVaibhav1805&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180em"/>
 
 <br/>
@@ -104,29 +107,13 @@ me.say_hi()
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiVaibhav1805&theme=tokyo-night&hide_border=true&area=true&area_color=38BDF8"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaiVaibhav1805&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7"/>
-</div>
-
----
-
 ## 🎯 What I'm Up To
 
 | 🔭 Working On | Advanced ML projects & real-world AI solutions |
 |---|---|
-| 🌱 Learning | FastAPI · React · Cloud · Deep Learning |
+| 🌱 Learning | REST APIs · React · Deep Learning |
 | 🏆 Goals | Compete in hackathons · Contribute to open source |
-| 💬 Ask me about | Python · ML Pipelines · Data Science · Web Dev |
+| 💬 Ask me about | Python · ML Pipelines · Data Science · Backend Dev |
 | ⚡ Fun fact | I debug code faster with coffee ☕ |
 
 ---
@@ -142,6 +129,7 @@ me.say_hi()
 </div>
 
 ---
+
 
 ## ✍️ Dev Quote of the Day
 
